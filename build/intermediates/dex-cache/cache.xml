@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\MalabarHangoutsApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="cf0a4cd6f131c3cd2d8fd5ddc28960adadeb9981">
+        <dex dex="F:\MyWork\MalabarHangoutsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b203cc3b12136d3a001d7ab7ae9087fc02da2e16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\MyWork\MalabarHangoutsApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="e77166772ed32b5fb9382593d720a06449006d87">
+        <dex dex="F:\MyWork\MalabarHangoutsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0a862fca70328ff056bed646757363173ab04aa8\classes.dex" />
+    </item>
+
+</items>

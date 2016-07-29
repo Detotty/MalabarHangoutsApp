@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\MyWork\\MalabarHangoutsApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "F:\\MyWork\\MalabarHangoutsApp\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "F:\\MyWork\\MalabarHangoutsApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\member.xml",
+        "source": "F:\\MyWork\\MalabarHangoutsApp\\app\\src\\main\\res\\layout\\member.xml"
+    },
+    {
+        "merged": "F:\\MyWork\\MalabarHangoutsApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payment.xml",
+        "source": "F:\\MyWork\\MalabarHangoutsApp\\app\\src\\main\\res\\layout\\payment.xml"
+    },
+    {
+        "merged": "F:\\MyWork\\MalabarHangoutsApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\MyWork\\MalabarHangoutsApp\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\MyWork\\MalabarHangoutsApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dashboard.xml",
+        "source": "F:\\MyWork\\MalabarHangoutsApp\\app\\src\\main\\res\\layout\\dashboard.xml"
+    },
+    {
+        "merged": "F:\\MyWork\\MalabarHangoutsApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "F:\\MyWork\\MalabarHangoutsApp\\app\\src\\main\\res\\layout\\register.xml"
+    }
+]

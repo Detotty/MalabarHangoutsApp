@@ -1,0 +1,7 @@
+#Fri Jul 29 09:33:44 PKT 2016
+base.0=F\:\\MyWork\\MalabarHangoutsApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0a862fca70328ff056bed646757363173ab04aa8
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\MyWork\\MalabarHangoutsApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b203cc3b12136d3a001d7ab7ae9087fc02da2e16\\classes.dex
+base.1=F\:\\MyWork\\MalabarHangoutsApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b203cc3b12136d3a001d7ab7ae9087fc02da2e16
+file.0=F\:\\MyWork\\MalabarHangoutsApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0a862fca70328ff056bed646757363173ab04aa8\\classes.dex
